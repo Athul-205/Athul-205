@@ -1,192 +1,135 @@
-<div align="center">
+# Hi there, I'm Athul A 👋
 
-# 👋 Hi, I'm Athul
+🎓 B.Tech Computer Science Engineering (AI & ML) Student  
+💡 AI Developer | Full-Stack Developer | Machine Learning Enthusiast | Startup Enthusiast
 
-### 🚀 AI & Machine Learning Developer | B.Tech CSE (AI & ML)
-
-Building intelligent software that solves real-world problems through Artificial Intelligence, Machine Learning, and Software Development.
-
-<p>
-<a href="https://github.com/Athul-205"><img src="https://img.shields.io/badge/GitHub-Athul--205-181717?style=for-the-badge&logo=github"></a>
-<a href="https://www.linkedin.com/in/athul-a-348655330"><img src="https://img.shields.io/badge/LinkedIn-Athul-0A66C2?style=for-the-badge&logo=linkedin"></a>
-</p>
-
-</div>
+I enjoy building AI-powered applications that solve real-world problems. My interests include Artificial Intelligence, Machine Learning, Full-Stack Development, Healthcare AI, and Productivity Tools.
 
 ---
 
-# 💡 About Me
+## 🚀 Featured Projects
 
-I'm a Computer Science & Engineering (AI & ML) student passionate about building practical AI-powered applications that solve real-world problems.
-
-I enjoy transforming ideas into software—from intelligent productivity tools and healthcare assistants to machine learning solutions and enterprise management systems.
-
----
-
-# 🚀 Featured Projects
-
-## 🚀 DeadlineAI
-
-**Adaptive AI Productivity Planner**
-
-An AI-powered productivity planner that intelligently schedules tasks based on deadlines, workload, priorities, and daily commitments.
-
-**Key Features**
-
-- AI-generated daily schedule
-- Smart task prioritization
-- Commitment-aware planning
-- Interactive dashboard
-- Responsive Streamlit interface
+### 🧠 DeadlineAI
+An AI-powered adaptive productivity planner that intelligently prioritizes tasks, schedules work, and helps users meet deadlines efficiently.
 
 **Tech Stack**
-
-`Python` `Streamlit` `SQLite` `Gemini API`
+- React 19
+- TypeScript
+- Vite
+- Tailwind CSS v4
+- Node.js
+- Express.js
+- Google Gemini API (@google/genai)
+- Recharts
+- Framer Motion
+- Lucide React
 
 ---
 
-## 🩺 Clinical AI
-
-**AI Clinical Report Summarizer**
-
-An AI-powered healthcare assistant that summarizes patient reports and helps doctors quickly understand medical history.
-
-**Key Features**
-
-- Clinical report summarization
-- Medical history overview
-- AI-assisted report analysis
-- Doctor-friendly interface
+### 🏥 Clinical AI
+An AI-powered clinical assistant that summarizes medical reports, analyzes laboratory data, and assists healthcare professionals with structured clinical insights.
 
 **Tech Stack**
-
-`Python` `Streamlit` `Gemini API`
+- React 19
+- TypeScript
+- Vite
+- Tailwind CSS v4
+- Node.js
+- Express.js
+- Google Gemini API (@google/genai)
+- Recharts
+- Framer Motion
+- Lucide React
 
 ---
 
-## 🍷 Wine Quality Prediction
-
-**Machine Learning Prediction System**
-
-A machine learning project that predicts wine quality using supervised learning techniques.
-
-**Key Features**
-
-- Data preprocessing
-- Feature engineering
-- Model training
-- Prediction system
-- Performance evaluation
+### 🍷 Wine Quality Prediction
+Machine Learning model for predicting wine quality using classification techniques.
 
 **Tech Stack**
-
-`Python` `Scikit-learn` `Pandas`
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
 
 ---
 
-## 🏭 Manufacturing Product Management System
-
-**Desktop Manufacturing Management Software**
-
-A desktop application developed to manage inventory, production, products, users, and sales operations.
-
-**Key Features**
-
-- Inventory Management
-- Product Management
-- Production Tracking
-- Sales Management
-- User Authentication
-- Database Integration
+### 🏭 Manufacturing Product Management System
+Desktop application for managing raw materials, products, production, inventory, and sales.
 
 **Tech Stack**
-
-`Python` `Tkinter` `MySQL`
+- Python
+- Tkinter
+- MySQL
 
 ---
 
-# 🛠️ Tech Stack
+## 💻 Technical Skills
 
 ### Languages
+- Python
+- TypeScript
+- JavaScript
+- SQL
+- C
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### Frontend
+- React
+- Tailwind CSS
+- HTML5
+- CSS3
+- Vite
 
-### AI & Machine Learning
+### Backend
+- Node.js
+- Express.js
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+### AI / Machine Learning
+- Google Gemini API
+- Scikit-learn
+- Pandas
+- NumPy
+- Machine Learning
 
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+### Database
+- MySQL
+- SQLite
 
 ### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
-![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=google)
+- Git
+- GitHub
+- VS Code
+- Google AI Studio
 
 ---
 
-# 🏆 Certifications
+## 📜 Certifications
 
-- 🥇 Oracle Fusion AI Agent Studio Certified Foundations Associate – Rel 1
-- 🤖 Artificial Intelligence Fundamentals — IBM SkillsBuild
-- 🐍 Python (Basic) — HackerRank
-- 📊 Introduction to Data Science — Cisco Networking Academy
-- 🔐 Introduction to Cybersecurity — Cisco Networking Academy
-- 🛡️ Fundamentals of Information Security — Infosys Springboard
-
----
-
-# 🌱 Currently Learning
-
-- Generative AI
-- AI Engineering
-- Machine Learning Deployment
-- Full-Stack AI Development
-- Advanced Python
+- Oracle Fusion AI Agent Studio Certified Foundations Associate – Rel 1
+- Artificial Intelligence Fundamentals – IBM SkillsBuild
+- Python (Basic) – HackerRank
+- Introduction to Data Science – Cisco Networking Academy
+- Introduction to Cybersecurity – Cisco Networking Academy
+- Fundamentals of Information Security – Infosys Springboard
 
 ---
 
-# 🎯 Areas of Interest
+## 🌱 Currently Learning
 
-- Artificial Intelligence
-- Machine Learning
-- Healthcare AI
-- Productivity Applications
-- Data Science
-- Software Development
-
----
-
-# 📫 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/Athul-205">
-<img src="https://img.shields.io/badge/GitHub-Athul--205-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/athul-a-348655330">
-<img src="https://img.shields.io/badge/LinkedIn-Athul-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-</p>
+- Large Language Models (LLMs)
+- AI Agents
+- Full-Stack AI Applications
+- Advanced Machine Learning
+- Cloud Technologies
 
 ---
 
-<div align="center">
+## 📫 Connect With Me
 
-### ⭐ Thanks for visiting my profile!
+- LinkedIn: https://www.linkedin.com/in/athul-a-348655330
+- GitHub: https://github.com/Athul-205
 
-*"Learning by building. Building with AI."*
+---
 
-</div>
+⭐ Thanks for visiting my profile!
